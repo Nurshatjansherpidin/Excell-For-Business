@@ -64,11 +64,11 @@ Fill handle:
 	Double click the fill handle and it automatically creates series 
 	With dates, it automatically adds one, with numbers it copies 
 	
-	You can click this icon to change your auto fill options 
+You can click this icon to change your auto fill options 
 	Select two cell, telling the excel a patter, and then double click you can customize the patterns yourself
 	When click on the auto fill option and click "flash fill", the excel spots the patterns itself and applies it to the workbook 
 	
-	Shortcuts:
+Shortcuts:
 		Ø Open new workbook: Ctrl + N 
 		Ø New file: Ctrl + N 
 		Ø Close file: Ctrl + W 
@@ -78,9 +78,9 @@ Fill handle:
 		Ø Ctrl + End take you to the last cell that has data in the bottom-right 
 		
 	
-	For more shortcuts, please visit Microsoft Support Page. 
+For more shortcuts, please visit Microsoft Support Page. 
 	
-	Copy and paste 
+Copy and paste 
 	click o the top-left cell where you want to begin 
 	If you want to keep the width of the cell, click Keep Source Column Width in the paste option after copied the data 
 	If you want to have your columns to be rows and vice verse, you can click the Transpose in the paste option 
@@ -88,7 +88,7 @@ Fill handle:
 	Don't forget that there is a lot to explore in Excel templates 
 	
 	
-	Week 2 
+Week 2 
 	Formula and function 
 		Ø Formulas always start with equal follows by the cell you want to perform the equation
 			Plus: +
@@ -104,12 +104,12 @@ Fill handle:
 				□ Shortcut, press F4 after you click the cell then it automatically changes to absolute cell reference 
 		Ø Working between different sheets 
 			§ If you want to have a cell has the number from a different sheet, click = and go to the sheet click on the cell and press enter 
-	Shortcuts 
+Shortcuts 
 		Ø F4 (fn + F4 / CMD + T) — Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative)
 		Ø CTRL + ~ (CTRL + `) — Show formulas in the worksheet
 		Ø SHIFT + F3 (CTRL + A) — Open Formula Builder/ Function Wizard
 		Ø CTRL + PgUp/PgDn (CMD + PgUp) — Go to the previous/next sheet
-	You can customize many things in excel option by simply going to File-Options 
+You can customize many things in excel option by simply going to File-Options 
 	
 	You can use the function RANDBETWEEN to randomly select number between a range of numbers, use comma (,) or a semicolon(;) to separate the two numbers 
 	
@@ -124,7 +124,7 @@ Fill handle:
 		Ø CTRL + B (CMD + B) -- Change selection to Bold Text
 	If you spot ##### on your excel, it means that the column width is not wide enough to show the numbers, double-click the line in between the cell,
 	
-	Week 4 Working with Data 
+Week 4 Working with Data 
 	Deleting rows or columns
 		Delete by using the Delete key on your keyboard deletes the value whereas 
 		Delete by using the right-click on your mouse deletes the cells and shift upwards or leftwards
