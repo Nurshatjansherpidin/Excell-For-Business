@@ -4,22 +4,22 @@ This article is served as a personal note book.
 
 Please visit the courser site [Excel Skills for Business](https://www.coursera.org/learn/excel-essentials)
 
-This notebook is composed of six parts: Week 1-6 and covers basic Excel skills 
+This notebook is composed of six parts: Week 1-6 and covers basic Excel skills. 
 
 ## Week 1 
 
 This tool bar is called ribbon, it contains all the tools we need
-![ribbon](https://www.wallstreetmojo.com/wp-content/uploads/2019/08/Ribbon-in-Excel.png)
+![ribbon](https://www.wallstreetmojo.com/wp-content/uploads/2014/05/Excel-2016-Ribbons-Tabs-and-Quick-Access-Toolbar.jpg)
 Under the ribbon different functions are grouped logically 
+![group]{https://www.wallstreetmojo.com/wp-content/uploads/2014/05/Excel-2016-Ribbons-Tabs-and-Quick-Access-Toolbar.jpg}
 
 Such as the group font, contains all the functions needed for text 
 If you click on the dialogue launcher on the right bottom had of some group, you will have some additional options, like this 
-
-
+![dialogue](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOHoFQeSdwNPqA_TqWanc09R_tZVGOTS4Kgw&usqp=CAU)
 
 Double click on the tabs on the ribbon to collapse it to free up some space. Also to double click if you want it back.
-On the left top of your excel you can see toolbar and you can customize it by clicking the drop down arrow.
-
+On the left top of your excel you can see a toolbar and you can customize it by clicking the drop down arrow.
+![excel toolbar](https://cdn.educba.com/academy/wp-content/uploads/2019/02/Toolbar-in-Excel-example.png)
 If you want to add any function that is not on the toolbar, right click the function and click "Add to quick access toolbar"
 
 If you click on any cell, you may see and edit data with formula bar 
